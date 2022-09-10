@@ -1,4 +1,16 @@
 body {
-    background-image: url("./image/sevilla-tower-gbe6653cfa_1920.jpg");
-    background-position: center;
+    margin: 0%;
+    background-image: url("./image/scott-webb-fTEFBwIELQ0-unsplash\ \(1\).jpg");
+    background-position: center top;
+    background-size: cover;
+    height: fit-content;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-color: #cccccc;
+    color: black;
+}
+
+.body{
+    color: black;
 }
