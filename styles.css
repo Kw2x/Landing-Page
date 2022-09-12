@@ -112,3 +112,40 @@ h4{
     width: 290px;
     
 }
+
+.S2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100px;
+    border: 5px;
+    border-radius: 10px;
+    border-color: red;
+    justify-content: center;
+    align-items: center;
+}
+
+.S2-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 25px;
+    border-radius: 10px;
+    border-color: red;
+}
+
+
+.box1{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin: 20px;
+    padding: 10px;
+}
