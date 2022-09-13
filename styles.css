@@ -183,3 +183,16 @@ img {
     align-items: center;
     width: 100px;
 }
+
+.quotes{
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+    height: 250px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.933), rgba(255, 0, 0, 0.176));
+}
+
