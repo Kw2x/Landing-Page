@@ -196,3 +196,45 @@ img {
     background-image: linear-gradient(to right, rgba(255, 255, 255, 0.933), rgba(255, 0, 0, 0.176));
 }
 
+.S4{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.S4-content{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+   
+}
+
+.S4-button{
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+}
+
+.footer{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    margin: 0px;
+    padding: 0px;
+    height: 30px;
+    width: auto;
+    
+}
